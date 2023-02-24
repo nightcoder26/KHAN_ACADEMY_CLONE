@@ -1,0 +1,40 @@
+.nav-bar{
+    color:#1865f2;
+    font-family: 'Fredoka One', cursive;
+    /* font-family: 'Open Sans', sans-serif; */
+    font-weight:8px;
+    font-size: small;
+    width:100%;
+    border: solid;
+    border-width: 0.1em;
+    border-color: rgb(169, 169, 169);
+
+}
+
+#title{
+    color: black;
+}
+#icon{
+    width: 1.5em;
+    
+}
+
+#student-image{
+    width:32.5em;
+}
+
+#search{
+    margin-left: 0px;
+    margin-top:1.5em;
+}
+
+#heading{
+    
+    font-family: 'Open Sans';
+}
+
+.colour{
+    background-color: #1865f2;
+    color: white;
+    margin:0px;
+}
