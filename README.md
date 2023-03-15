@@ -1,4 +1,5 @@
-# KHAN_ACADEMY_CLONE
+# KHAN_ACADEMY Home page UI recreation
+
 A small attempt at recreating the khan academy website's layout
 
 ## This site is live at the following link
