@@ -1,4 +1,4 @@
-# KHAN_ACADEMY Home page UI recreation
+# KHAN_ACADEMY Home page
 
 A small attempt at recreating the khan academy website's layout.
 This project uses HTML,CSS and Bootstrap CSS
